@@ -57,7 +57,7 @@ if st.button("Fetch Data"):
                 "part": "snippet",
                 "q": keyword,
                 "type": "video",
-                "order": "viewCount",
+                "order": "relevance",
                 "publishedAfter": start_date,
                 "maxResults": 5,
                 "key": API_KEY,
