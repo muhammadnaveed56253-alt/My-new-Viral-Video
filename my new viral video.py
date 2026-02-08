@@ -1,13 +1,3 @@
-
-Weekly Viral Topics
-Viral Topics Tool
-1.	Make youtube API (Google Cloud Console, and then enable youtube APi services)
-2.	Github repository
-3.	Make app on streamlit
-•	Go to streamlit cloud
-•	Sign In
-•	Launch your app
-Code:
 import streamlit as st
 import requests
 from datetime import datetime, timedelta
